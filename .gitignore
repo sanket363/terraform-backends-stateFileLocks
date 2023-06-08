@@ -1,5 +1,3 @@
-.terraform.lock.hcl
-.terraform
 # Ignore local .terraform directories
 **/.terraform/*
 
